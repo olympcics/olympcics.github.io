@@ -54,7 +54,7 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: manning cics
+  - title: generously sponsored by manning cics
     url: https://www.cics.umass.edu/
 
   # - title: twitter
@@ -67,10 +67,10 @@ footer_entries:
   #   url: feed.xml
 
 misc_entries:
-  - title: this is an example vertical list
+  - title: January 28th - 31st, 2024
     url: false
 
-  - title: you can show or hide using a boolean flag in _config.yml
+  - title: LGRC Lowrise & CS Building, UMass Amherst
     url: false
 
   - title: and you can add data in _data/home.yml

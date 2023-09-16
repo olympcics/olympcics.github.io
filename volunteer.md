@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get Involved
+title: Get involved
 ---
 
 This is an example page!
