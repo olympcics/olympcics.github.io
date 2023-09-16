@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: what is this?
     url: about
 
-  - title: blog
-    url: blog
+  - title: get involved
+    url: volunteer
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: latest news
+    url: blog
 
 project_entries:
   - title: Project 1
