@@ -2,7 +2,11 @@ title: OlympCICS
 author: Manning College of Information and Computer Sciences
 url: https://olympcics.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  The 2nd Annual OlympCICS Competition at the Manning College of Information and Computer Sciences.
+  The 2nd Annual OlympCICS Competition at the Manning College of Information and Computer Sciences. <br/><br/> 
+
+  January 28th - 31st, 2024 <br/><br/> 
+
+  LGRC Lowrise & CS Building, UMass Amherst
 
 permalink: /:slug
 
@@ -34,7 +38,7 @@ theme_config:
   # options for "home" page
   home:
     title_projects: Events
-    title_misc_list: Details
+    title_misc_list: TLDR
     title_blog: Blog
     title_old_projects: Last Year's Events
 
