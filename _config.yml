@@ -4,6 +4,10 @@ url: https://olympcics.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   The 2nd Annual OlympCICS Competition at the Manning College of Information and Computer Sciences.
 
+  January 28th - 31st, 2024
+
+  Lederle Graduate Research Center & CS Building, UMass Amherst
+
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
