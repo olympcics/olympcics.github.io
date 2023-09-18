@@ -5,7 +5,7 @@ navbar_entries:
   - title: get involved
     url: volunteer
 
-  - title: latest news
+  - title: news
     url: blog
 
 project_entries:
@@ -75,30 +75,51 @@ misc_entries:
 
   - title: three teams
     url: false
+    entries:
+      - title: randomly assigned
+        url: false
 
-  - title: three teams
+      - title: join anytime!
+        url: false
+
+      # - title: this list is scalable and can be nested
+      #   url: false
+      #   entries:
+      #     - title: this is nested inside a nested list
+      #       url: false
+
+      #     - title: it is easy to use, see _data/home.yml to see how to configure it.
+      #       url: false
+
+  - title: eight events
+    url: false
+
+  - title: actual medals for the winning team
+    url: false
+
+  - title: a closing party with a buffet
     url: false
 
   # - title: Blog posts
   #   post_list: true
   #   url: false
 
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
+  # - title: moonwalk on the Internet
+  #   url: false
+  #   entries:
+  #     - title: on Github
+  #       url: https://github.com/abhinavs/moonwalk
 
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+  #     - title: originally built for abhinav's homepage
+  #       url: https://www.abhinav.co
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+  #     - title: this list is scalable and can be nested
+  #       url: false
+  #       entries:
+  #         - title: this is nested inside a nested list
+  #           url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+  #         - title: it is easy to use, see _data/home.yml to see how to configure it.
+  #           url: false
 
 
