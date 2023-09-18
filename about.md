@@ -15,6 +15,6 @@ Grad students "take over" the CS and LGRC buildings for a week to take a break, 
 
 ### Frequently Asked Questions
 
-- Am I signed up?  Yes!  All Manning CICS grad students are signed up by default.  You can opt out if you won't be able to make it using [this form](google.com)
+- Am I signed up?  Yes!  All Manning CICS grad students are signed up by default.  You can opt out if you won't be able to make it using [this form](google.com).
 
 - Can I help out?  Yes!  Check out our volunteer page [here](/volunteer).  We're always in need of ideas, help setting up, and help judging the events.
