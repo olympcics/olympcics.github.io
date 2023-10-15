@@ -9,8 +9,21 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: to be announced (stay tuned!)
+  - title: nerf tournament!
     url: false
+
+  - title: puzzle hunt!
+    url: false
+
+  - title: foosball tournament!
+    url: false
+
+  - title: mini golfing in LGRC!
+    url: false
+
+  - title: more to be announced (stay tuned!)
+    url: false
+    
   #   desc: This is an example project, configured in _data/home.yml
 
   # - title: Project 2
