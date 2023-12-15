@@ -9,7 +9,7 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: nerf tournament!
+  - title: nerf capture the flag!
     url: false
 
   - title: puzzle hunt!
@@ -86,7 +86,7 @@ misc_entries:
   - title: four days of competitions and food before the spring semester starts
     url: false
 
-  - title: three teams
+  - title: two teams (red team vs. blue team)
     url: false
     entries:
       - title: randomly assigned
@@ -107,10 +107,10 @@ misc_entries:
   - title: eight events
     url: false
 
-  - title: actual medals for the winning team
+  - title: permanent plaque for the winning team
     url: false
 
-  - title: a closing party with a buffet
+  - title: a closing party with a potluck buffet
     url: false
 
   # - title: Blog posts
