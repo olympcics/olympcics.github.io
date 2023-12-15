@@ -86,7 +86,7 @@ misc_entries:
   - title: four days of competitions and food before the spring semester starts
     url: false
 
-  - title: two teams (red team vs. blue team)
+  - title: two teams (<span style="color:Tomato;">red team</span> vs. <span style="color:DodgerBlue;">blue team</span>)
     url: false
     entries:
       - title: randomly assigned
