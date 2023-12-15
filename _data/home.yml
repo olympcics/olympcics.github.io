@@ -11,18 +11,35 @@ navbar_entries:
 project_entries:
   - title: nerf capture the flag!
     url: false
+    desc: 
+
+  - title: gingerbread house decorating!
+    url: false
+    desc: 
 
   - title: puzzle hunt!
     url: false
+    desc: 
 
   - title: foosball tournament!
     url: false
+    desc: 
 
   - title: mini golfing in LGRC!
     url: false
+    desc: 
 
-  - title: more to be announced (stay tuned!)
+  - title: marshmallow challenge!
     url: false
+    desc: 
+
+  - title: olympcics trivia!
+    url: false
+    desc: 
+
+  - title: board game night!
+    url: false
+    desc: 
     
   #   desc: This is an example project, configured in _data/home.yml
 
