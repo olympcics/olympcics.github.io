@@ -11,23 +11,23 @@ navbar_entries:
 project_entries:
   - title: nerf capture the flag!
     url: false
-    desc: 
+    desc: red vs. blue team capture the flag between two bases in an LGRC arena
 
   - title: gingerbread house decorating!
     url: false
-    desc: 
+    desc: split into sub-teams to decorate gingerbread houses, vote on the best ones
 
   - title: puzzle hunt!
     url: false
-    desc: 
+    desc: solve a bunch of puzzles to solve a scavenger hunt
 
   - title: foosball tournament!
     url: false
-    desc: 
+    desc: round-robin style multi-tournament -- win matches to score points for your team
 
   - title: mini golfing in LGRC!
     url: false
-    desc: 
+    desc: play a round of mini golf in an impromptu LGRC course
 
   - title: marshmallow challenge!
     url: false
