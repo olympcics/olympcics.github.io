@@ -16,6 +16,10 @@ project_entries:
   - title: gingerbread house decorating!
     url: false
     desc: split into sub-teams to decorate gingerbread houses, vote on the best ones
+  
+  - title: marshmallow challenge!
+    url: false
+    desc: build an impressive structure using only marshmallows and spaghetti
 
   - title: puzzle hunt!
     url: false
@@ -28,10 +32,6 @@ project_entries:
   - title: mini golfing in LGRC!
     url: false
     desc: play a round of mini golf in an impromptu LGRC course
-
-  - title: marshmallow challenge!
-    url: false
-    desc: build an impressive structure using only marshmallows and spaghetti
 
   - title: olympcics trivia!
     url: false
