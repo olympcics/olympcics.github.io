@@ -9,9 +9,9 @@ navbar_entries:
     url: blog
 
 project_entries:
-  - title: nerf capture the flag!
+  - title: foosball tournament!
     url: false
-    desc: red vs. blue team capture the flag between two bases in an LGRC arena
+    desc: round-robin style multi-tournament -- win matches to score points for your team
 
   - title: gingerbread house decorating!
     url: false
@@ -21,9 +21,9 @@ project_entries:
     url: false
     desc: solve a bunch of puzzles to solve a scavenger hunt
 
-  - title: foosball tournament!
+  - title: nerf capture the flag!
     url: false
-    desc: round-robin style multi-tournament -- win matches to score points for your team
+    desc: red vs. blue team capture the flag between two bases in an LGRC arena
 
   - title: mini golfing in LGRC!
     url: false
@@ -31,15 +31,15 @@ project_entries:
 
   - title: marshmallow challenge!
     url: false
-    desc: 
+    desc: build an impressive structure only using marshmallows and spaghetti
 
   - title: olympcics trivia!
     url: false
-    desc: 
+    desc: jeopardy-style group trivia on general topics
 
   - title: board game night!
     url: false
-    desc: 
+    desc: dozens and dozens of concurrent board games
     
   #   desc: This is an example project, configured in _data/home.yml
 
