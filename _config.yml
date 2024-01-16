@@ -6,7 +6,9 @@ description: > # description of the site (multiple lines allowed)
 
   January 28th - 31st, 2024 <br/><br/> 
 
-  LGRC Lowrise & CS Building, UMass Amherst
+  LGRC Lowrise & CS Building, UMass Amherst <br/><br/>
+
+  check-in at LGRC A112
 
 permalink: /:slug
 
