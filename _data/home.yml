@@ -19,11 +19,11 @@ project_entries:
   
   - title: marshmallow challenge!
     url: false
-    desc: build an impressive structure using only marshmallows and spaghetti
+    desc: build the tallest tower using only marshmallows and spaghetti
 
   - title: puzzle hunt!
     url: false
-    desc: solve a bunch of puzzles to solve a scavenger hunt
+    desc: solve a bunch of puzzles to complete a scavenger hunt
 
   - title: nerf capture the flag!
     url: false
